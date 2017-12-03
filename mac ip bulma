@@ -1,3 +1,9 @@
++#!/usr/bin/python2
+ +# coding: utf-8 -*-
+ +# Python2
+ +# Ağa bağlı cihazların mac ve ipsini bulma
+ +# Firat ÖZBEK
+
 import sys
 from scapy.all import *
 from datetime import datetime
